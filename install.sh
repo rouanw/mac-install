@@ -24,3 +24,4 @@ brew cask install google-drive
 brew cask install menucalendarclock-ical
 brew cask install skype
 brew cask install hipchat
+brew cask install spectacle
