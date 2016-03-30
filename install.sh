@@ -4,7 +4,6 @@ brew doctor
 
 brew install git
 brew install node
-brew install nvm
 brew install cdargs
 brew install gpg2
 
