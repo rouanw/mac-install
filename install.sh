@@ -26,3 +26,4 @@ brew cask install hipchat
 brew cask install spectacle
 brew cask install android-file-transfer
 brew cask install webstorm
+brew cask install telegram
