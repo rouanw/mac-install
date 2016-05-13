@@ -29,3 +29,4 @@ brew cask install android-file-transfer
 brew cask install webstorm
 brew cask install telegram
 brew cask install robomongo
+brew cask install fluid
