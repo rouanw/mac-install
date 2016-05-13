@@ -1,6 +1,7 @@
 #!/bin/bash
 brew update
 brew doctor
+brew analytics off
 
 brew install git
 brew install cdargs
