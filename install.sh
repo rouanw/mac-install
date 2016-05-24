@@ -30,3 +30,5 @@ brew cask install webstorm
 brew cask install telegram
 brew cask install robomongo
 brew cask install fluid
+brew cask install java
+
