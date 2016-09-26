@@ -6,6 +6,8 @@ brew analytics off
 brew install git
 brew install cdargs
 brew install gpg2
+brew install rsstail
+brew install html2text
 
 brew tap caskroom/cask
 brew cask install google-chrome
