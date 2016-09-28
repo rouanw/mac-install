@@ -12,7 +12,7 @@ brew install html2text
 
 brew tap caskroom/cask
 brew cask install google-chrome
-brew cask install dockertoolbox
+brew cask install docker
 brew cask install alfred
 brew cask install 1password
 brew cask install atom
