@@ -18,20 +18,16 @@ brew cask install atom
 brew cask install caffeine
 brew cask install scroll-reverser
 brew cask install vlc
-brew cask install adium
 brew cask install dropbox
 brew cask install eloquent
 brew cask install firefox
 brew cask install google-drive
 brew cask install menucalendarclock-ical
-brew cask install skype
 brew cask install hipchat
 brew cask install spectacle
 brew cask install android-file-transfer
 brew cask install webstorm
 brew cask install telegram
 brew cask install mongochef
-brew cask install robomongo
 brew cask install fluid
 brew cask install java
-
