@@ -2,6 +2,7 @@
 brew update
 brew doctor
 brew analytics off
+brew prune
 
 brew install git
 brew install cdargs
