@@ -32,3 +32,4 @@ brew cask install telegram
 brew cask install mongochef
 brew cask install fluid
 brew cask install java
+brew cask install skype
