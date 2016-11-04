@@ -10,6 +10,7 @@ brew install gpg2
 brew install rsstail
 brew install html2text
 brew install postgresql
+brew install hugo
 
 brew tap caskroom/cask
 brew cask install google-chrome
